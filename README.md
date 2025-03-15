@@ -1,5 +1,4 @@
 # django-cache-decorator
-# Cache Result Decorator for Django
 
 ## Overview
 The `cache_result` decorator provides a way to cache function results in Django using the **Django cache framework** (e.g., Redis, Memcached). This can improve performance by reducing unnecessary database queries or API calls.
